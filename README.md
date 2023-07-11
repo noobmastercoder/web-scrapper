@@ -1,4 +1,4 @@
-# iNeuron Course Details Scrapper
+# Details of Scrapper
 1. AWS screenshot
     ![Home Page on AWS](./ins/1.PNG)
     - Refresh Button is to perfom the (re)scrapping operation. Previosly scrapped data is loaded.
